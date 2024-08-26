@@ -12,10 +12,11 @@ A letra "i" é convertida para "imes"
 A letra "a" é convertida para "ai"
 A letra "o" é convertida para "ober"
 A letra "u" é convertida para "ufat"
-Exemplo
 
+Exemplo
 O texto "gato" será criptografado para "gaitober".
 O texto "gaitober" será descriptografado para "gato".
+
 Funcionalidades da Página
 Esta página foi desenvolvida com o objetivo de criptografar e descriptografar textos de forma simples e rápida. A funcionalidade principal permite que os usuários convertam mensagens comuns em uma forma criptografada e, posteriormente, revertam essa conversão para o texto original. Essa ferramenta é ideal para quem deseja enviar mensagens "secretas" utilizando um padrão de substituição pré-definido.
 
